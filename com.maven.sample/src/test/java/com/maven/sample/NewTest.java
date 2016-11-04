@@ -21,7 +21,7 @@ public class NewTest {
   @Test
   public void fo() {
 	  System.out.println("kumar");
-	  System.out.println("kumar  comit");
+	  System.out.println("kumar jj comit");
 	  
 //		 driver.findElement(
 //				 By.id("com.experitest.ExperiBank:id/usernameTextField"))
